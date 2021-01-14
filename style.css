@@ -1,3 +1,11 @@
 body{
     font-family: 'Bebas Neue', cursive;
 }
+.highlight{
+    color: red;
+}
+.card-footer{
+    border: 0px;
+    background-color: white;
+}
+    
